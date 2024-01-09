@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 83cbedd6d5f73c54ca60e4ded4a8762b
+guid: f78f0ee1ddf571f4c9fb0c53992403f7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -149,13 +149,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_0
+      name: Fisherman_fish_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 16
-        width: 31
-        height: 14
+        x: 9
+        y: 0
+        width: 35
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b58c5a66d4c27a439a54632fe0f167e
-      internalID: -938195606
+      spriteID: 3da7da358841013489d272747f6d8937
+      internalID: -76635176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_1
+      name: Fisherman_fish_1
       rect:
         serializedVersion: 2
-        x: 56
-        y: 16
-        width: 31
-        height: 15
+        x: 57
+        y: 0
+        width: 35
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54a4026040300424a88f96a9d256a6fb
-      internalID: 339816546
+      spriteID: a45c1beb29551e14d9971006808d2ce6
+      internalID: 1223100833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_2
+      name: Fisherman_fish_2
       rect:
         serializedVersion: 2
-        x: 104
-        y: 17
-        width: 31
-        height: 14
+        x: 105
+        y: 0
+        width: 35
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0227e5b4f8c174345bb1caa7a693320d
-      internalID: 1254884404
+      spriteID: 20148ef2093a0084dac4759e0c45e8dd
+      internalID: -362731357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_3
+      name: Fisherman_fish_3
       rect:
         serializedVersion: 2
-        x: 152
-        y: 17
-        width: 31
-        height: 13
+        x: 153
+        y: 0
+        width: 35
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a1b69920ffa16e4089ffec4e871560b
-      internalID: 977276267
+      spriteID: 2d8b9bfc4d070a944812c27c94f0277c
+      internalID: -486840269
       vertices: []
       indices: 
       edges: []
@@ -243,10 +243,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Idle_0: -938195606
-      Idle_1: 339816546
-      Idle_2: 1254884404
-      Idle_3: 977276267
+      Fisherman_fish_0: -76635176
+      Fisherman_fish_1: 1223100833
+      Fisherman_fish_2: -362731357
+      Fisherman_fish_3: -486840269
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
